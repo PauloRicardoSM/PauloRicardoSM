@@ -1,4 +1,5 @@
- <div>
+ <div style="text-align: center;" align="center">
+  <h2>Github Stats</h3>
    <a href="https://github.com/PauloRicardo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloRicardoSM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRicardoSM&layout=compact&langs_count=6&theme=tokyonight"/>
