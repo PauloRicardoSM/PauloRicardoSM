@@ -1,3 +1,8 @@
+<h2 align="center">About Me</h2>
+<p align="center">
+  Hello! How’s everything? I hope all is well. Pleasure to meet you, I’m Paulo Ricardo, a Brazilian junior web developer, currently focusing on front-end, but I’ve already started exploring the back-end, as I aspire to become a full-stack developer. In addition to web development, I also work with Python for various software development projects. My native language is Brazilian Portuguese, I have a good understanding of English, and I’m beginning to study Japanese. Despite a busy schedule at university, I’m always engaged in projects, both collaboratively and individually. If you find any repository interesting or have any suggestions, feel free to reach out, either here on GitHub or through my social networks listed below.
+</p>
+
  <div style="text-align: center;" align="center">
   <h2>Github Stats</h3>
    <a href="https://github.com/PauloRicardo">
