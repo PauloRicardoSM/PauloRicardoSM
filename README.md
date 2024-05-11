@@ -3,6 +3,19 @@
   Hello! How’s everything? I hope all is well. Pleasure to meet you, I’m Paulo Ricardo, a Brazilian junior web developer, currently focusing on front-end, but I’ve already started exploring the back-end, as I aspire to become a full-stack developer. In addition to web development, I also work with Python for various software development projects. My native language is Brazilian Portuguese, I have a good understanding of English, and I’m beginning to study Japanese. Despite a busy schedule at university, I’m always engaged in projects, both collaboratively and individually. If you find any repository interesting or have any suggestions, feel free to reach out, either here on GitHub or through my social networks listed below.
 </p>
 
+<br>
+
+<div style="display: inline_block" style="text-align: center;" align="center">
+  <h2>My Stack</h2>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<br>
+
  <div style="text-align: center;" align="center">
   <h2>Github Stats</h3>
    <a href="https://github.com/PauloRicardo">
@@ -13,15 +26,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloRicardoSM/PauloRicardoSM/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PauloRicardoSM/PauloRicardoSM/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-    
-<div style="display: inline_block" style="text-align: center;" align="center"><br>
-  <h2>My Stack</h2>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
 <br>
